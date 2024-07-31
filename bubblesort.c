@@ -9,7 +9,7 @@ printf("value of element");
 for ( i = 0; i < num; i++)
 {
     scanf("%d",&array[i]);
-}3
+}
 
 for ( i = 0; i < num; i++)
 {
