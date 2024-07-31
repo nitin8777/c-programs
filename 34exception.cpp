@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdexcept>
 using namespace std;
-
+j
 int main()
 {
     int numerator = 10;
